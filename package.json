@@ -1,0 +1,41 @@
+{
+  "name": "kinetic-typography",
+  "version": "2.0.0",
+  "description": "Advanced kinetic typography library for p5.js with customizable fonts and effects",
+  "main": "KineticTypography.js",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "p5js",
+    "typography",
+    "kinetic",
+    "animation",
+    "effects",
+    "canvas",
+    "creative-coding",
+    "generative-art"
+  ],
+  "author": "Tu Nombre <tu-email@ejemplo.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/KineticTypography.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/KineticTypography/issues"
+  },
+  "homepage": "https://github.com/tu-usuario/KineticTypography#readme",
+  "dependencies": {},
+  "peerDependencies": {
+    "p5": "^1.4.0"
+  },
+  "devDependencies": {},
+  "files": [
+    "KineticTypography.js",
+    "README.md",
+    "LICENSE",
+    "examples/"
+  ]
+}
