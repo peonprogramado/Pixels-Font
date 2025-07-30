@@ -1,24 +1,24 @@
-# KineticTypography v2.0
+# Hover con desplazamiento de pixeles
 
-Una librería avanzada para crear efectos de tipografía cinética con p5.js. Permite customización completa de fuentes, palabras, colores y efectos de animación.
+Librería para crear efectos de tipografía cinética con desplazamiento de pixeles en tu web, creada con p5.js. Permite customización completa de fuente, texto, color y valores de la animacion de desplazamiento.
 
 ![KineticTypography Demo](https://img.shields.io/badge/p5.js-Compatible-pink?style=for-the-badge&logo=p5.js)
 ![Version](https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-## 🚀 Características
+## Características
 
-- ✨ **Efectos cinéticos avanzados** con tiles configurables
-- 🎨 **10+ fuentes predefinidas** del sistema
-- 📁 **Carga de fuentes externas** (TTF, OTF)
-- 📝 **Gestión de listas de palabras** con navegación
-- 🎯 **Alineación configurable** (izquierda, centro, derecha)
-- 🌈 **Colores personalizables** (fondo y texto)
+-  **Efectos cinéticos avanzados** con tiles configurables
+- **10+ fuentes predefinidas** del sistema
+- **Carga de fuentes externas** (TTF, OTF)
+- **Gestión de listas de palabras** con navegación
+- **Alineación configurable** (izquierda, centro, derecha)
+- **Colores personalizables** (fondo y texto)
 - 🎛️ **5 presets de efectos** predefinidos
-- 💾 **Exportación de imágenes** en alta calidad
-- 🔄 **API modular** y fácil de usar
+- **Exportación de imágenes** en alta calidad
+- **API modular** y fácil de usar
 
-## 📦 Instalación
+## Instalación
 
 ### Opción 1: Descarga Directa
 1. Descarga `KineticTypography.js`
@@ -43,7 +43,7 @@ Una librería avanzada para crear efectos de tipografía cinética con p5.js. Pe
 <script src="https://cdn.jsdelivr.net/gh/usuario/KineticTypography/KineticTypography.js"></script>
 ```
 
-## 🎯 Uso Básico
+## Uso Básico
 
 ### Configuración Mínima
 ```javascript
@@ -105,7 +105,7 @@ function draw() {
 }
 ```
 
-## 📚 API Reference
+## API Reference
 
 ### Constructor
 ```javascript
@@ -231,7 +231,7 @@ const fonts = {
 kineticText.setPredefinedFont('impact');
 ```
 
-## 🎛️ Presets de Efectos
+## Presets de Efectos
 
 La librería incluye 5 presets predefinidos:
 
@@ -340,7 +340,7 @@ function applyPreset(preset) {
 }
 ```
 
-## 🎨 Casos de Uso
+## Casos de Uso
 
 ### Landing Pages
 ```javascript
@@ -386,7 +386,7 @@ function nextSlide() {
 }
 ```
 
-## 🔧 Personalización Avanzada
+## Personalización Avanzada
 
 ### Cargar Fuentes Externas
 ```javascript
@@ -532,7 +532,7 @@ MIT License - puedes usar esta librería libremente en proyectos personales y co
 
 ## 📞 Soporte
 
-- 📧 Email: [tu-email@ejemplo.com]
+- 📧 Email: [albaantondesign@gmail.com]
 - 🐛 Issues: [GitHub Issues](https://github.com/usuario/KineticTypography/issues)
 - 📖 Documentación: [GitHub Wiki](https://github.com/usuario/KineticTypography/wiki)
 
